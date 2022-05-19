@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/nerkarso/prettier-config/issues"
   },
-  "homepage": "https://github.com/nerkarso/prettier-config#readme"
+  "homepage": "https://github.com/nerkarso/prettier-config#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
